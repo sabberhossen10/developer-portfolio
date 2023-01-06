@@ -121,3 +121,123 @@ ul li {
     font-size: 20px;
     line-height: 30px;
 }
+
+.what-i-do {
+    text-align: center;
+    margin-top: 130px;
+    margin-bottom: 30px;
+}
+
+.skill {
+    display: flex;
+    text-align: left;
+    margin-top: 50px;
+    gap: 24px;
+    /* border-radius: 20px; */
+    
+}
+
+.skill-tittle {
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+.skill-p {
+    font-weight: 400;
+    font-size: 16px;
+    /* margin-bottom: 20px; */
+}
+
+.skill-part {
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+}
+.skill-padding{
+    padding: 30px;
+    ;
+}
+.summery-tittle{
+    margin: 131px 0px;
+    text-align: center;
+    font-weight: 700;
+font-size: 35px;
+}
+.summery-main{
+    display: flex;
+    gap: 21px;
+}
+.my-edu{
+    font-weight: 700;
+font-size: 30px;
+margin-bottom: 30px;
+}
+.master{
+    font-weight: 700;
+font-size: 25px;
+margin-bottom: 10px;
+}
+.har{
+    font-weight: 600;
+font-size: 20px;
+margin-bottom: 20px;
+}
+.list-skill{
+    font-weight: 400;
+font-size: 16px;
+/* margin-bottom: 30px; */
+}
+.summery-one{
+    margin: 30px 10px;
+    /* padding: 20px; */
+}
+.summery-two{
+    margin: 30px 10px;
+    /* padding: 20px; */
+}
+.summery-main{
+    margin-left: px;
+}
+.btn-cv{
+    padding: 18px 36px;
+    background-color: #FD6E0A;
+    color: white;
+    border: 0;
+    border-radius: 4px;
+    font-size: large;
+    font-weight: 700;
+    
+}
+
+.btn-cv2{
+    text-align: center;
+    margin: 50px 0px 100px;
+}
+.last{
+    display: flex;
+    gap: 117px;
+    /* background-color: ; */
+    background: #FFF8F3;
+    padding: 130px 230px;
+
+}
+.connects{
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom:46px ; 
+}
+.pera{
+    font-weight: 400;
+font-size: 16px;
+margin-bottom: 30px;
+}
+input ,textarea{
+    border: 0;
+    padding:18px 0 30px 18px; 
+    margin: 10px;
+    width: 100%;
+   
+}
+
